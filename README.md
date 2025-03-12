@@ -26,7 +26,7 @@
   <img width="12" />
 </div>
 
-**` 🖥️ Web Development `** 
+**` 🌐 Web Development `** 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,36 +38,48 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind"  />
+  <img width="12" />
   </div>
   
-**` 🖥️ Mobile Development `**  
+**` 📱 Mobile Development `**  
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 <img width="12" />
+
+
+
+  
 </div>
   
-**` 🖥️ Database Technologies `**  
+**` 💾 Database Technologies `**  
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sqlserver logo"  />
+  <img width="12" />
+
+ 
 </div>
 
-**` 🖥️ Version Control `** 
+**` 🎛️ Version Control `** 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
 </div>
+
+## 📈 **GitHub Stats**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vac-Dev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="150px"/>
 </p>
 
 
 
-
+## 🐍 **Snake Commits** 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vac-Dev/Vac-Dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vac-Dev/Vac-Dev/output/github-snake.svg" />
