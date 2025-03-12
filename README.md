@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏼‍🎓 studying BCAD(Application Development at IIE Varsity College Pretoria</p>
+<p align="left">👨🏼‍🎓 studying BCAD(Application Development) at IIE Varsity College Pretoria</p>
 
 ###
 
