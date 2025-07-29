@@ -74,8 +74,9 @@
 
 ## 📈 **GitHub Stats**  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vac-Dev&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats-eight-ecru.vercel.app/api?username=Vac-Dev&show_icons=true&theme=gruvbox&count_private=true&custom_title=Kyle+Nel's+GitHub+Stats" alt="GitHub Stats" height="150px"/>
 </p>
+
 
 
 
