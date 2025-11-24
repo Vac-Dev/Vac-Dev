@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨🏼‍💻 currently working as a C# Developer since 2024</p>
+<p align="left">👨🏼‍💻 currently working as a Developer since 2024</p>
 
 ###
 
